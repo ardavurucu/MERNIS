@@ -1,0 +1,2 @@
+# MERNIS
+mernis discord bot
